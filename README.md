@@ -25,9 +25,6 @@
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=apachespark)
 ![Sci-Kit Learn](https://img.shields.io/badge/-Sci_Kit-000?&logo=scikitlearn)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-000?&logo=dassaultsystemes)
-![Altium](https://img.shields.io/badge/-Altium-000?&logo=altiumdesigner)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhyang13&layout=compact&exclude_repo=jhyang13.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
