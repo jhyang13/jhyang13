@@ -3,7 +3,7 @@
 ![Graduate](https://img.shields.io/badge/MS-Northwestern-purple)
 ![Graduate](https://img.shields.io/badge/PhD-UW_Madison-red)
 
-- I am currently pursuing a Master's degree in Robotics at the University of Pennsylvania.
+- I am currently pursuing a PhD in Mechanical Engineering at the University of Wisconsin-Madison.
 - My areas of interest include embedded systems, human-computer interaction (HCI), and big data analysis.
 - I am seeking opportunities for a Research Assistantship or PhD position in the field of Human-Computer Interaction.
 
