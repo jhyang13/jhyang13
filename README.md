@@ -29,15 +29,7 @@
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-000?&logo=dassaultsystemes)
 ![Altium](https://img.shields.io/badge/-Altium-000?&logo=altiumdesigner)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumy7&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=jhyang13&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-## Current Repositories
-
-| # |                                                              Repositories                                                              |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
-| 1 | [Cyberpet: An Arduino and ESP Based Companion Robot](https://github.com/XuanyouLiu/Cyberpet.git) |
-| 2 | [US Real Estate Rental Prices Analysis](https://github.com/XuanyouLiu/US-Real-Estate-Analysis) |
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhyang13&layout=compact&exclude_repo=jhyang13.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
