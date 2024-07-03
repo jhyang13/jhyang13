@@ -1,8 +1,8 @@
 # Hi, I'm Jiahui!
 
-![Undergrad](https://img.shields.io/badge/Undergrad-Soochow University-blue)
-![MS Graduate](https://img.shields.io/badge/Graduate-Northwestern-blue)
-![PhD Graduate](https://img.shields.io/badge/Graduate-UW-Madison-blue)
+![Undergrad](https://img.shields.io/badge/Undergrad-Soochow_University-blue)
+![MS Graduate](https://img.shields.io/badge/Graduate-Northwestern-purple)
+![PhD Graduate](https://img.shields.io/badge/Graduate-UW_Madison-blue)
 
 - I am currently pursuing a Master's degree in Robotics at the University of Pennsylvania.
 - My areas of interest include embedded systems, human-computer interaction (HCI), and big data analysis.
