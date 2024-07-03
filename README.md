@@ -9,7 +9,14 @@
 
 📫 **[Email](jyang753@wisc.edu)** | 💬 **[Linkedin](https://www.linkedin.com/in/jiahui-yang-174b71246/)**
 
-## Languages & Techologies
+## Skills
+
+- **Programming & Scripting Languages:** Python, Java, SQL, C/C++, HTML, CSS, JavaScript, MATLAB, Bash, Power Shell, VBA scripting
+- **Python Libraries:** NumPy, Pandas, Matplotlib, APIs, scikit-learn, TensorFlow, Keras, PyTorch, Seaborn
+- **Machine Learning:** Hypothesis Testing, Regression Analysis, Classification, Decision Trees, Random Forests, Neural Networks
+- **Database Management:** MySQL, PostgreSQL, MongoDB
+- **Other Tools & Platforms:** Jupyter, Google Colab, AWS (S3, EC2, RDS), Anaconda, Bootstrap, Spyder, Docker, Tableau, Hadoop
+- **Certifications:** Data Science and Visualization Boot Camp, Northwestern || Data Science Professional Certificate, IBM || Computer Science for Artificial Intelligence, Harvard || Full Stack Application Development, IBM
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
