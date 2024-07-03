@@ -5,7 +5,7 @@
 
 - I am currently pursuing a PhD in Mechanical Engineering at the University of Wisconsin-Madison.
 - My areas of interest include computational materials science, AI for science, data science, and full-stack engineering.
-- I am seeking opportunities for a Research Assistantship or PhD position in the field of Human-Computer Interaction.
+- I am seeking opportunities for a research assistantship and internships in the fields of computational materials science, AI for science, and data science.
 
 📫 [Email](jyang753@wisc.edu) | [Linkedin](https://www.linkedin.com/in/jiahui-yang-174b71246/)
 
