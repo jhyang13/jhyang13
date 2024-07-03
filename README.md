@@ -1,4 +1,4 @@
-# Hi there, I'm Jiahui! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Jiahui!
 
 ![Undergrad](https://img.shields.io/badge/Undergrad-XJTU-blue)
 ![Graduate](https://img.shields.io/badge/Graduate-UPenn-blue)
