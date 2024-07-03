@@ -8,7 +8,7 @@
 - My areas of interest include embedded systems, human-computer interaction (HCI), and big data analysis.
 - I am seeking opportunities for a Research Assistantship or PhD position in the field of Human-Computer Interaction.
 
-📫 [Email](mailto:xuanyou@seas.upenn.edu) | [Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) | [Linkedin](https://www.linkedin.com/in/xuanyouliu/)
+📫 [Email](jyang753@wisc.edu) | [Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) | [Linkedin](https://www.linkedin.com/in/xuanyouliu/)
 
 ## Languages & Techologies
 
