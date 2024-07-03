@@ -4,7 +4,7 @@
 ![Graduate](https://img.shields.io/badge/PhD-UW_Madison-red)
 
 - I am currently pursuing a PhD in Mechanical Engineering at the University of Wisconsin-Madison.
-- My areas of interest include embedded systems, human-computer interaction (HCI), and big data analysis.
+- My areas of interest include computational materials science, AI for science, data science, and full-stack engineering.
 - I am seeking opportunities for a Research Assistantship or PhD position in the field of Human-Computer Interaction.
 
 📫 [Email](jyang753@wisc.edu) | [Linkedin](https://www.linkedin.com/in/jiahui-yang-174b71246/)
