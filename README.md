@@ -1,5 +1,7 @@
 # Hi, I'm Jiahui!
 
+## Building AI-Powered Products and Sharing Knowledge to Help!!!
+
 ![Graduate](https://img.shields.io/badge/MS-Northwestern-purple)
 ![Graduate](https://img.shields.io/badge/PhD-UW_Madison-red)
 
