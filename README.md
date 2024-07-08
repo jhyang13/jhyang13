@@ -15,12 +15,12 @@
 
 ## Skills
 
-- **Programming & Scripting Languages:** Python, Java, SQL, C/C++, HTML, CSS, JavaScript, MATLAB, Bash, Power Shell, VBA scripting
-- **Python Libraries:** NumPy, Pandas, Matplotlib, APIs, scikit-learn, TensorFlow, Keras, PyTorch, Seaborn
-- **Machine Learning:** Hypothesis Testing, Regression Analysis, Classification, Decision Trees, Random Forests, Neural Networks
+- **Programming & Scripting Languages:** Python, HTML, CSS, JavaScript, Bootstrap, Java, C/C++, SQL, Bash, Power Shell, VBA scripting
+- **Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn, APIs, scikit-learn, TensorFlow, Keras, PyTorch
+- **Machine Learning:** Regression Analysis, Classification, Clustering, Decision Trees, Random Forests, Neural Networks
 - **Database Management:** MySQL, PostgreSQL, MongoDB
-- **Other Tools & Platforms:** Jupyter, Google Colab, AWS (S3, EC2, RDS), Anaconda, Bootstrap, Spyder, Docker, Tableau, Hadoop
-- **Certifications:** Data Science and Visualization Boot Camp, Northwestern || Data Science Professional Certificate, IBM || Computer Science for Artificial Intelligence, Harvard || Full Stack Application Development, IBM
+- **Other Tools & Platforms:** Microsoft Excel, Tableau, Jupyter, Google Colab, Anaconda, Spyder, AWS (S3, EC2, RDS), Docker, Hadoop
+- **Certifications:**  Data Analyst Professional Certificate, IBM || Data Science Professional Certificate, IBM || AI Developer Professional Certificate, IBM || Full Stack Application Development, IBM || Data Science and Visualization Boot Camp, Northwestern
 
 
 
