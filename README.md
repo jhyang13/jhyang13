@@ -17,7 +17,7 @@
 
 - **Programming & Scripting Languages:** Python, HTML, CSS, JavaScript, Bootstrap, Java, C/C++, SQL, Bash, Power Shell, VBA scripting
 - **Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn, APIs, scikit-learn, TensorFlow, Keras, PyTorch
-- **Machine Learning:** Regression Analysis, Classification, Clustering, Decision Trees, Random Forests, Neural Networks
+- **Machine Learning:** Hypothesis testing, Regression Analysis, Classification, Clustering, Reinforcement Learning, Deep Learning, LLMs
 - **Database Management:** MySQL, PostgreSQL, MongoDB
 - **Other Tools & Platforms:** Microsoft Excel, Tableau, Jupyter, Google Colab, Anaconda, Spyder, AWS (S3, EC2, RDS), Docker, Hadoop
 - **Certifications:**  Data Analyst Professional Certificate, IBM || Data Science Professional Certificate, IBM || AI Developer Professional Certificate, IBM || Full Stack Application Development, IBM || Data Science and Visualization Boot Camp, Northwestern
