@@ -5,7 +5,7 @@
 ![Graduate](https://img.shields.io/badge/MS-Northwestern-purple)
 ![Graduate](https://img.shields.io/badge/PhD-UW_Madison-red)
 
-- 🔭 I am currently pursuing a PhD in Mechanical Engineering at the University of Wisconsin-Madison.
+- 🔭 I am currently pursuing a PhD in the Mechanical Engineering Department at the University of Wisconsin-Madison.
 - 🌱 My areas of interest include computational materials science, AI for science, data science, and full-stack software engineering.
 - 😊 Adaptable, Open-minded & Self-Motivated
 - ☀️ Life is a journey of discovery and adventure, always embracing new things and challenges : )
