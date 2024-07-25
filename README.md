@@ -6,10 +6,10 @@
 ![Graduate](https://img.shields.io/badge/PhD-UW_Madison-red)
 
 - 🔭 I am currently pursuing a PhD in Mechanical Engineering at the University of Wisconsin-Madison.
-- 🌱 My areas of interest include computational materials science, AI for science, data science, and full-stack engineering.
+- 🌱 My areas of interest include computational materials science, AI for science, data science, and full-stack software engineering.
 - 😊 Adaptable, Open-minded & Self-Motivated
 - ☀️ Life is a journey of discovery and adventure, always embracing new things and challenges : )
-- ⚡ I am seeking opportunities for a research assistantship and internships in the fields of computational materials science, AI for science, and data science.
+- ⚡ I am seeking opportunities for a research assistantship and internships in the fields of computational materials science, AI for science, data science, and full-stack software engineering.
 
 📫 **[Email](jyang753@wisc.edu)** | 📱 **[Linkedin](https://www.linkedin.com/in/jiahui-yang-174b71246/)**
 
