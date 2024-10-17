@@ -1,9 +1,10 @@
 # Hi, I'm Jiahui!
 
 ## Building AI-Powered Products and Sharing Knowledge to Help!!!
-![Undergrad](https://img.shields.io/badge/Bachelor-SoochowU-blue)
+![Undergrad](https://img.shields.io/badge/Bachelor-SoochowU-red)
 ![Graduate](https://img.shields.io/badge/MS-Northwestern-purple)
 ![Graduate](https://img.shields.io/badge/PhD-UW_Madison-red)
+![Graduate](https://img.shields.io/badge/PhD-Duke-blue)
 
 - 🔭 I am currently pursuing a PhD in the Mechanical Engineering Department at the University of Wisconsin-Madison.
 - 🌱 My areas of interest include computational materials science, AI for science, data science, and full-stack software engineering.
