@@ -6,11 +6,11 @@
 ![Graduate](https://img.shields.io/badge/PhD-UW_Madison-red)
 ![Graduate](https://img.shields.io/badge/PhD-Duke-blue)
 
-- 🔭 I am currently pursuing a PhD in the Mechanical Engineering Department at the University of Wisconsin-Madison.
-- 🌱 My areas of interest include computational materials science, AI for science, data science, and full-stack software engineering.
+- 🔭 I am currently pursuing a PhD in the Electrical & Computer Engineering Department at the Duke University.
+- 🌱 My areas of interest encompass computational materials science, AI for scientific applications, data science, full-stack software engineering, and machine learning engineering.
 - 😊 Adaptable, Open-minded & Self-Motivated
 - ☀️ Life is a journey of discovery and adventure, always embracing new things and challenges : )
-- ⚡ I am seeking opportunities for a research assistantship and internships in the fields of computational materials science, AI for science, data science, and full-stack software engineering.
+- ⚡ I am actively seeking opportunities for research assistantships and internships in the fields of computational materials science, AI for scientific applications, data science, full-stack software engineering, and machine learning engineering.
 
 📱 **[Linkedin](https://www.linkedin.com/in/jiahui-yang-174b71246/)**
 
