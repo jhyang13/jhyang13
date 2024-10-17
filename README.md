@@ -20,8 +20,8 @@
 - **Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn, APIs, scikit-learn, TensorFlow, Keras, PyTorch
 - **Machine Learning:** Hypothesis Testing, Regression Analysis, Classification, Clustering, Reinforcement Learning, Deep Learning, LLMs
 - **Database Management:** MySQL, PostgreSQL, MongoDB
-- **Other Tools & Platforms:** Microsoft Excel, Jupyter, Google Colab, Tableau, Anaconda, Spyder, AWS (S3, EC2, RDS), Docker, Hadoop
-- **Certifications:**  Data Analyst Professional Certificate, IBM || Data Science Professional Certificate, IBM || AI Developer Professional Certificate, IBM || Full Stack Application Development, IBM || Data Science and Visualization Boot Camp, Northwestern
+- **Other Tools & Platforms:** Microsoft Excel, Tableau, Jupyter, Google Colab, Anaconda, Spyder, AWS (S3, EC2, RDS), Docker, Hadoop
+- **Certifications:**   Data Analyst Professional Certificate, IBM || Data Science Professional Certificate, IBM || AI Developer Professional Certificate, IBM || Full-Stack Software Developer Professional Certificate, IBM
 
 
 
