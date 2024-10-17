@@ -12,7 +12,7 @@
 - ☀️ Life is a journey of discovery and adventure, always embracing new things and challenges : )
 - ⚡ I am seeking opportunities for a research assistantship and internships in the fields of computational materials science, AI for science, data science, and full-stack software engineering.
 
-📫 **[Email](jyang753@wisc.edu)** | 📱 **[Linkedin](https://www.linkedin.com/in/jiahui-yang-174b71246/)**
+📱 **[Linkedin](https://www.linkedin.com/in/jiahui-yang-174b71246/)**
 
 ## Skills
 
