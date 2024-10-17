@@ -24,8 +24,7 @@
 - **Certifications:** Data Analyst Professional Certificate, IBM || Data Science Professional Certificate, IBM || AI Developer Professional Certificate, IBM || Full-Stack Software Developer Professional Certificate, IBM
 
 ## PROFESSIONAL EXPERIENCE:
-Duke University                                                                                                                                                                                           Durham, NC, USA
-Visiting Graduate Student                                                                                                                                                                              Jun 2024 – Now
+*Visiting Graduate Student, Duke University, Jun 2024 – Now*                                                                                                                                                                  
 - Enhanced the MaterialsMine web-based platform using HTML, CSS, JavaScript and Django to integrate extensive experimental and computational data on polymer nanocomposite materials, improving data visualization and user interface.
 - Built and maintained a comprehensive materials database using MongoDB by curating critical processing-structure-property (p-s-p) parameters from academic literature and lab-generated data. Developed Python-based scripts and leveraged LLMs to automate the conversion of XSD, XML, YAML, and JSON files from various input formats provided by collaborators, significantly improving data curation efficiency and ensuring database accuracy.
 
