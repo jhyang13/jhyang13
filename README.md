@@ -1,4 +1,4 @@
-# Hi, I'm Jiahui!
+# Hi, I'm Jiahui : )
 
 ## Building AI-Powered Products and Sharing Knowledge to Help!!!
 ![Undergrad](https://img.shields.io/badge/Bachelor-SoochowU-yellow)
