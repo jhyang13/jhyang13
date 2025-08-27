@@ -10,7 +10,7 @@
 
 - 🔭 I am currently pursuing a PhD in the Electrical & Computer Engineering Department at the Duke University.
 - 🌱 My areas of interest encompass future computing hardware, neuromorphic computing, AI acceleration, computational materials science, AI for Science
-- 😊 Adaptable, Open-minded & Self-Motivated
+- 😊 Open-minded & Self-Motivated
 - ☀️ Life is a journey of discovery and adventure, always embracing new things and challenges : )
 - ⚡ I am actively seeking opportunities for research assistantships and internships in the fields of future computing hardware, neuromorphic computing, AI acceleration, AI for science
 
