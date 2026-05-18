@@ -12,7 +12,7 @@
 - 🌱 My areas of interest: future computing hardware, neuromorphic computing, AI acceleration and AI for Science
 - 😊 Open-minded & Self-Motivated
 - ☀️ Life is a journey of discovery and adventure, always embracing new things and challenges :)
-- ⚡ I am actively seeking opportunities for internships in the fields of future computing hardware, neuromorphic computing, AI acceleration and AI for science
+- ⚡ I am actively seeking opportunities for internships :)
 
 ## Skills
 - **Programming & Scripting Languages:** Python, HTML, CSS, JavaScript, Bootstrap, Java, C/C++, SQL, Bash, Power Shell, VBA scripting
