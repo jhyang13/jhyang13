@@ -9,7 +9,7 @@
 📱 **[Linkedin](https://www.linkedin.com/in/jiahui-yang-174b71246/)**
 
 - 🔭 I am currently pursuing a PhD in the Electrical & Computer Engineering Department at Duke University.
-- 🌱 My areas of interest: future computing hardware, neuromorphic computing, AI acceleration, computational materials science, AI for Science
+- 🌱 My areas of interest: future computing hardware, neuromorphic computing, AI acceleration and AI for Science
 - 😊 Open-minded & Self-Motivated
 - ☀️ Life is a journey of discovery and adventure, always embracing new things and challenges :)
 - ⚡ I am actively seeking opportunities for internships in the fields of future computing hardware, neuromorphic computing, AI acceleration and AI for science
