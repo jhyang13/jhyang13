@@ -5,7 +5,6 @@
 ![Graduate](https://img.shields.io/badge/MS-Northwestern-purple)
 ![Graduate](https://img.shields.io/badge/PhD-UW_Madison-red)
 ![Graduate](https://img.shields.io/badge/PhD-Duke-blue)
-
 📱 **[Linkedin](https://www.linkedin.com/in/jiahui-yang-174b71246/)**
 
 - 🔭 I am currently pursuing a PhD in the Electrical & Computer Engineering Department at Duke University.
