@@ -8,11 +8,11 @@
 
 📱 **[Linkedin](https://www.linkedin.com/in/jiahui-yang-174b71246/)**
 
-- 🔭 I am currently pursuing a PhD in the Electrical & Computer Engineering Department at the Duke University.
-- 🌱 My areas of interest encompass future computing hardware, neuromorphic computing, AI acceleration, computational materials science, AI for Science
+- 🔭 I am currently pursuing a PhD in the Electrical & Computer Engineering Department at Duke University.
+- 🌱 My areas of interest: future computing hardware, neuromorphic computing, AI acceleration, computational materials science, AI for Science
 - 😊 Open-minded & Self-Motivated
-- ☀️ Life is a journey of discovery and adventure, always embracing new things and challenges : )
-- ⚡ I am actively seeking opportunities for research assistantships and internships in the fields of future computing hardware, neuromorphic computing, AI acceleration, AI for science
+- ☀️ Life is a journey of discovery and adventure, always embracing new things and challenges :)
+- ⚡ I am actively seeking opportunities for internships in the fields of future computing hardware, neuromorphic computing, AI acceleration and AI for science
 
 ## Skills
 - **Programming & Scripting Languages:** Python, HTML, CSS, JavaScript, Bootstrap, Java, C/C++, SQL, Bash, Power Shell, VBA scripting
@@ -23,7 +23,7 @@
 - **Certifications:** Data Analyst Professional Certificate, IBM || Data Science Professional Certificate, IBM || AI Developer Professional Certificate, IBM || Full-Stack Software Developer Professional Certificate, IBM
 
 ## Professional Experience
-*Visiting Graduate Student, Duke University, Jun 2024 – Aug 2024*                                                                                                                                                                  
+*Visiting Graduate Student, Duke University, Jun 2024 – Dec 2024*                                                                                                                                                                  
 - Enhanced the MaterialsMine web-based platform using HTML, CSS, JavaScript and Django to integrate extensive experimental and computational data on polymer nanocomposite materials, improving data visualization and user interface.
 - Built and maintained a comprehensive materials database using MongoDB by curating critical processing-structure-property (p-s-p) parameters from academic literature and lab-generated data. Developed Python-based scripts and leveraged LLMs to automate the conversion of XSD, XML, YAML, and JSON files from various input formats provided by collaborators, significantly improving data curation efficiency and ensuring database accuracy.
 
