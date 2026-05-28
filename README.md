@@ -18,7 +18,7 @@
 - **Programming Languages:** Python, C/C++, SystemVerilog, Verilog, SQL, Java, Bash, JavaScript
 - **Machine Learning & AI:** Scikit-learn, PyTorch, TensorFlow, Transformers, LLMs, Reinforcement Learning, Deep Learning
 - **AI Systems & ML Engineering:** Model Training, Model Optimization, Data Pipelines, APIs, Docker, AWS (EC2, S3, RDS), Linux, Git
-- **Hardware & Digital Design:** RTL Design, FPGA Design, Digital Logic Design, FSM Design, Pipelined Architecture, Computer Architecture
+- **Hardware & Digital Design:** RTL Design, FPGA Design, Digital Logic Design, FSM Design, Computer Architecture
 - **Verification & FPGA Tools:** Quartus, ModelSim, Testbench Development, Functional Verification
 - **Data Engineering & Databases:** NumPy, Pandas, MySQL, PostgreSQL, MongoDB, Neo4j
 - **Certifications:** IBM Data Analyst Professional Certificate, IBM Data Science Professional Certificate, IBM AI Developer Professional Certificate, IBM Full-Stack Software Developer Professional Certificate
