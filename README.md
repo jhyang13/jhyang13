@@ -22,6 +22,7 @@
 - **Verification & FPGA Tools:** Quartus, ModelSim, Testbench Development, Functional Verification
 - **Data Engineering & Databases:** NumPy, Pandas, MySQL, PostgreSQL, MongoDB, Neo4j
 - **Certifications:**
+  - Northwestern University Data Science and Visualization Boot Camp Certificate
   - IBM Data Analyst Professional Certificate
   - IBM Data Science Professional Certificate
   - IBM AI Developer Professional Certificate
