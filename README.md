@@ -21,5 +21,12 @@
 - **Hardware & Digital Design:** RTL Design, FPGA Design, Digital Logic Design, FSM Design, Computer Architecture
 - **Verification & FPGA Tools:** Quartus, ModelSim, Testbench Development, Functional Verification
 - **Data Engineering & Databases:** NumPy, Pandas, MySQL, PostgreSQL, MongoDB, Neo4j
-- **Certifications:** IBM Data Analyst Professional Certificate, IBM Data Science Professional Certificate, IBM AI Developer Professional Certificate, IBM Full-Stack Software Developer Professional Certificate
+- **Certifications:**
+  - IBM Data Analyst Professional Certificate
+  - IBM Data Science Professional Certificate
+  - IBM AI Developer Professional Certificate
+  - IBM Full-Stack Software Developer Professional Certificate
+
+
+
 
