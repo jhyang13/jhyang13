@@ -15,17 +15,21 @@
 - ⚡ I am actively seeking opportunities for internships :)
 
 ## Skills
-- **Programming & Scripting Languages:** Python, HTML, CSS, JavaScript, Bootstrap, Java, C/C++, SQL, Bash, Power Shell, VBA scripting
-- **Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn, APIs, scikit-learn, TensorFlow, Keras, PyTorch
-- **Machine Learning:** Hypothesis Testing, Regression Analysis, Classification, Clustering, Reinforcement Learning, Deep Learning, LLMs
-- **Database Management:** MySQL, PostgreSQL, MongoDB, Neo4j
-- **Other Tools & Platforms:** Microsoft Excel, Tableau, Jupyter, Google Colab, Anaconda, Spyder, AWS (S3, EC2, RDS), Docker, Hadoop
-- **Certifications:** Data Analyst Professional Certificate, IBM || Data Science Professional Certificate, IBM || AI Developer Professional Certificate, IBM || Full-Stack Software Developer Professional Certificate, IBM
-
-## Professional Experience
-*Visiting Graduate Student, Duke University, Jun 2024 – Dec 2024*                                                                                                                                                                  
-- Enhanced the MaterialsMine web-based platform using HTML, CSS, JavaScript and Django to integrate extensive experimental and computational data on polymer nanocomposite materials, improving data visualization and user interface.
-- Built and maintained a comprehensive materials database using MongoDB by curating critical processing-structure-property (p-s-p) parameters from academic literature and lab-generated data. Developed Python-based scripts and leveraged LLMs to automate the conversion of XSD, XML, YAML, and JSON files from various input formats provided by collaborators, significantly improving data curation efficiency and ensuring database accuracy.
-
-
+### Programming Languages
+Python, C/C++, SystemVerilog, Verilog, SQL, Java, Bash, JavaScript
+### Machine Learning & AI
+Scikit-learn, PyTorch, TensorFlow, Transformers, LLMs, Reinforcement Learning, Deep Learning
+### AI Systems & ML Engineering
+Model Training, Model Optimization, Data Pipelines, APIs, Docker, AWS (EC2, S3, RDS), Linux, Git
+### Hardware & Digital Design
+RTL Design, FPGA Design, Digital Logic Design, FSM Design, Pipelined Architecture, Computer Architecture
+### Verification & FPGA Tools
+Quartus, ModelSim, Testbench Development, Functional Verification
+### Data Engineering & Databases
+NumPy, Pandas, MySQL, PostgreSQL, MongoDB, Neo4j
+### Certifications
+- IBM Data Analyst Professional Certificate
+- IBM Data Science Professional Certificate
+- IBM AI Developer Professional Certificate
+- IBM Full-Stack Software Developer Professional Certificate
 
