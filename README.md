@@ -4,7 +4,7 @@
 ![Undergrad](https://img.shields.io/badge/Bachelor-SoochowU-yellow)
 ![Graduate](https://img.shields.io/badge/MS-Northwestern-purple)
 ![Graduate](https://img.shields.io/badge/PhD-UW_Madison-red)
-![Graduate](https://img.shields.io/badge/PhD-Duke-blue)
+![Graduate](https://img.shields.io/badge/PhD-Duke-undergoing-blue)
 
 📱 **[Linkedin](https://www.linkedin.com/in/jiahui-yang-174b71246/)**
 
